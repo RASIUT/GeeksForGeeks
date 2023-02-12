@@ -1,1 +1,1 @@
-# GeeksForGeeks
+# Pythagorean_Triplet
