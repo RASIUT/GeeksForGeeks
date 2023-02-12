@@ -1,1 +1,1 @@
-<h2> Pythagorean_Triplet<\h2>
+<h2> Pythagorean_Triplet</h2>
